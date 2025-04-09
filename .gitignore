@@ -1,0 +1,19 @@
+# Spotify token cache
+.cache-spotify
+
+# User credentials (optional config)
+config.json
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# macOS clutter
+.DS_Store
+
+# IDE folders
+.idea/
+.vscode/
